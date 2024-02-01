@@ -471,7 +471,19 @@ background-size: cover;
         width: calc(50% - 10px);
         margin-bottom: 10px;
     }
-    
+    .skill .skills-content .right .bars .css::before{
+    width: 80%  !important;
+}
+.skill .skills-content .right .bars .javascript::before{
+    width: 65% !important;
+}
+.skill .skills-content .right .bars .boostrap::before{
+    width: 70% !important;
+}
+.skill .skills-content .right .bars .figma::before{
+    width: 60% !important;
+}
+
 
 
 }
@@ -498,7 +510,19 @@ background-size: cover;
     .skill .skills-content .right{
         margin-top: 10vh;
     }
-   
+   .skill .skills-content .right .bars .css::before{
+    width: 80%  !important;
+}
+.skill .skills-content .right .bars .javascript::before{
+    width: 65% !important;
+}
+.skill .skills-content .right .bars .boostrap::before{
+    width: 70% !important;
+}
+.skill .skills-content .right .bars .figma::before{
+    width: 60% !important;
+}
+
 }
 
 @media (max-width: 767px) {
@@ -513,7 +537,19 @@ background-size: cover;
        height: 25vh;
        
     }
-    
+    .skill .skills-content .right .bars .css::before{
+    width: 80%  !important;
+}
+.skill .skills-content .right .bars .javascript::before{
+    width: 65% !important;
+}
+.skill .skills-content .right .bars .boostrap::before{
+    width: 70% !important;
+}
+.skill .skills-content .right .bars .figma::before{
+    width: 60% !important;
+}
+
 }
 
 @media (max-width: 400px) {
@@ -527,6 +563,19 @@ background-size: cover;
      .service .row .card{
         height: 31vh;
      }
+    .skill .skills-content .right .bars .css::before{
+    width: 80%  !important;
+}
+.skill .skills-content .right .bars .javascript::before{
+    width: 65% !important;
+}
+.skill .skills-content .right .bars .boostrap::before{
+    width: 70% !important;
+}
+.skill .skills-content .right .bars .figma::before{
+    width: 60% !important;
+}
+
      
     
 }
