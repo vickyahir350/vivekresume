@@ -429,8 +429,12 @@ background-size: cover;
     color: #fff;
     padding: 1rem 0;
     font-weight: normal;
+    font-family: 'sans-serif' !important;
 }
-
+.contact .content .info h3 a{
+    color: #fff;
+}
+    
 
 
 
